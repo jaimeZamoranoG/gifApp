@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifGridItem Debe estar como el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Cookie Monster Hello GIF by Sesame Street"
+      src="https://media2.giphy.com/media/GRPy8MKag9U1U88hzY/giphy.gif?cid=381d12a0louw4bwtfpmxgk57uw5jofj4sz5mkp4gke567sol&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Cookie Monster Hello GIF by Sesame Street
+    </p>
+  </div>
+</div>
+`;
